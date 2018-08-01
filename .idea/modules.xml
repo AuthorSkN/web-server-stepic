@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/webserverstepic.iml" filepath="$PROJECT_DIR$/webserverstepic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-server-stepic.iml" filepath="$PROJECT_DIR$/web-server-stepic.iml" />
     </modules>
   </component>
 </project>

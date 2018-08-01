@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="webserverstepic" />
+        <module name="web-server-stepic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="webserverstepic" target="1.5" />
+      <module name="web-server-stepic" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>
